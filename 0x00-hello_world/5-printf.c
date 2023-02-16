@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Programming is like building a multilingual
+ * main - Programming is like building a multilingual printf
  n
 
  * Return: 0 (Sucess)
