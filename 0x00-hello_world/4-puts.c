@@ -1,8 +1,6 @@
 #include <stdio.h>
 /**
  * main - Programming is like building a multilingual
- n
-
  * Return: 0 (Sucess)
  */
 int main(void)
