@@ -1,12 +1,11 @@
 #include <stdio.h>
 /**
- * main - Programming is like building a multilingual printf function
- n
-
+ * main prinftf "  with proper grammar, but the outcome is a piece of art " followed by new line
  * Return: 0 (Sucess)
  */
 int main(void)
+
 {
-printf("with proper grammar, but the outcome is a piece of art,\n")
-return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n")
+	return (0);
 }
