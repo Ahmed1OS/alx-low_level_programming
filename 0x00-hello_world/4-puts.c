@@ -3,7 +3,7 @@
  * main - Programming is like building a multilingual puzzle
  n
 
- * return: o (sucess)
+ * Return: 0 (Sucess)
  */
 int main(void)
 {
