@@ -5,8 +5,8 @@
 #include <time.h>
 
 /**
- * main -entry
- * return: always 0 (s)
+ * main - entry point
+ * return: always 0 (success)
  */
 
 int main(void)
